@@ -2,7 +2,7 @@
 
 This repo is used to store Windows's msi files and Linux (CentOS) rpm files.
 These may be used to install EPICS Qt framework and designer together with support
-libraries, with minimal fuss.
+libraries with minimal fuss.
 
 NOTE: This repository has been re-initialised and converted to a Large File
 Storage (LFS) repository. I suggest a fresh git clone.
@@ -57,3 +57,6 @@ available, however they may be incompatible with the package plugins and
 may cause issues.
 Consider un-setting QT_PLUGIN_PATH before calling these scripts, or using them
 as the basis for your own scripts.
+
+<font size="-1">Last updated: Mon Apr 27 10:47:41 AEST 2020</font>
+<br>
